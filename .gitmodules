@@ -1,0 +1,6 @@
+[submodule "FE"]
+	path = FE
+	url = https://github.com/your-org/clink_FE
+[submodule "BE"]
+	path = BE
+	url = https://github.com/your-org/clink_BE
